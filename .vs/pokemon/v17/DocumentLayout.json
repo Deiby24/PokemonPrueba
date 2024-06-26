@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deiby\\source\\repos\\pokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|c:\\users\\deiby\\source\\repos\\pokemon\\pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|c:\\users\\deiby\\source\\repos\\pokemon\\pokemon\\data\\pokedexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\data\\pokedexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|c:\\users\\deiby\\source\\repos\\pokemon\\pokemon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|c:\\users\\deiby\\source\\repos\\pokemon\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|c:\\users\\deiby\\source\\repos\\pokemon\\pokemon\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|c:\\users\\deiby\\source\\repos\\pokemon\\pokemon\\pokemon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D9188B2-EFED-4B8E-9419-D857D7239494}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\pokemon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "pokemon\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "pokemon\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA1wEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:17:42.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokedexContext.cs",
+              "DocumentMoniker": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\Data\\PokedexContext.cs",
+              "RelativeDocumentMoniker": "pokemon\\Data\\PokedexContext.cs",
+              "ToolTip": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\Data\\PokedexContext.cs",
+              "RelativeToolTip": "pokemon\\Data\\PokedexContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:12:38.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "pokemon\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\WeatherForecast.cs",
+              "RelativeToolTip": "pokemon\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:16:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\appsettings.json",
+              "RelativeDocumentMoniker": "pokemon\\appsettings.json",
+              "ToolTip": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\appsettings.json",
+              "RelativeToolTip": "pokemon\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T22:13:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "pokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\Program.cs",
+              "RelativeToolTip": "pokemon\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:03:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pokemon.csproj",
+              "DocumentMoniker": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\pokemon.csproj",
+              "RelativeDocumentMoniker": "pokemon\\pokemon.csproj",
+              "ToolTip": "C:\\Users\\deiby\\source\\repos\\pokemon\\pokemon\\pokemon.csproj",
+              "RelativeToolTip": "pokemon\\pokemon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T21:43:23.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
