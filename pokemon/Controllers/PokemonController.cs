@@ -47,7 +47,7 @@ namespace PokedexAPI.Controllers
                     Tipo = pa.Ataque.Tipo
                 }).ToList()
             };
-
+            Console.WriteLine("prueba");
             return Ok(pokemonDto);
         }
     }
